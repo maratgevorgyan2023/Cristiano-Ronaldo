@@ -1,0 +1,37 @@
+*{
+    margin: 0%; padding: 0%;
+    box-sizing: border-box;
+    text-transform: lowercase;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1{  
+    color: rgb(255, 0, 0);
+   font-size: 30px;  
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: 900px;
+}
+
+h1:hover{
+    color: rgb(42, 165, 165);
+}
+about{
+    margin-top: 20px;
+    background-color: brown;
+}
+
+span{
+    color: blue;
+    font-size: 20px;
+    font-weight: 700px;
+}
+
+#contact{
+    background-color: aquamarine;
+}
+
+    
